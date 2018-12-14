@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">부스트캠프 사전과제</string>
+    <string name="searchLabel">검색</string>
+    <string name="todo">TODO</string>
+    <string name="action_settings">설정</string>
+    <string name="no_data">검색 결과가 존재하지 않습니다.</string>
+</resources>
