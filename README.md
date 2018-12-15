@@ -1,9 +1,9 @@
-# 부스트코스 사전 과제
+# 부스트캠프 사전 과제
 
 
 ### 구현 내용
 기본 요구사항에 대한 부분은 전부 구현했으며, 다음과 같은 추가 내용을 포함하였습니다.
-- Infinity scroll
++ Infinity scroll
 - DataBinding
 - RxJava (부분적으로 사용)
 - onBackpress timer : 뒤로가기 두번눌린경우 종료
